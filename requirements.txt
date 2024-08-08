@@ -1,0 +1,5 @@
+selenium-wire
+selenium
+pandas
+tqdm
+tkinter
