@@ -66,3 +66,13 @@ Contributions to this project are welcome. If you find any issues or have sugges
 ## License
 
 This project is licensed under the MIT License.
+
+## Disclaimer
+
+This project is intended for educational and learning purposes only. It is designed to demonstrate techniques for interacting with Microsoft Teams video content within the boundaries of ethical and legal standards. 
+
+Downloading videos without proper authorization may infringe on the intellectual property rights of content creators. It is important to respect copyright laws and the terms of service of platforms like Microsoft Teams.
+
+The developers and contributors of this project do not endorse, support, or promote the unauthorized downloading or distribution of copyrighted content. Any misuse of this project for illegal activities is not the responsibility of the project owners.
+
+Use this tool responsibly and ensure that you have the necessary permissions before downloading any video content. By using this project, you agree to take full responsibility for your actions and to comply with all relevant laws and regulations.
