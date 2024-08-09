@@ -1,3 +1,10 @@
+![GitHub Repo stars](https://img.shields.io/github/stars/AnWongDrew/teams_video_downloader)
+![GitHub forks](https://img.shields.io/github/forks/AnWongDrew/teams_video_downloader)
+![GitHub contributors](https://img.shields.io/github/contributors/AnWongDrew/teams_video_downloader)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=AnWongDrew%2Fteams_video_downloader&countColor=%23263759)
+
+
 # Teams Video Downloader
 
 Teams Video Downloader is a Python-based tool that allows you to conveniently download lecture videos recorded using Microsoft Teams and stored in a SharePoint drive with view-only permissions.
